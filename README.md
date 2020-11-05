@@ -1,0 +1,1 @@
+mmcls_from_scratch
